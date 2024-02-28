@@ -4,6 +4,19 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luc5z&bg_color=0d1117&color=008000&line=008000&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+ ### Main skills:
+![RubyOnRails](https://img.shields.io/badge/-Ruby_on_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=FF0000&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

@@ -18,6 +18,7 @@
  ### My Projects:
 - [Portifólio](https://movai-advocacia.vercel.app/)
 - [Alvaro Simulator](https://luc5z.github.io)
+- [Calculadora científica](https://luc5z.github.io/calculadora/)
 
 <picture>
   <source

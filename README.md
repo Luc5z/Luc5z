@@ -17,8 +17,8 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
  ### My Projects:
-- [Portifólio](https://movai-advocacia.vercel.app/)
-- [Alvaro Simulator](https://luc5z.github.io)
+- [Portifólio](https://luc5z.github.io)
+- [Alvaro Simulator](https://luc5z.github.io/game)
 - [Calculadora científica](https://luc5z.github.io/calculadora/)
 
 <picture>

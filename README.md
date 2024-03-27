@@ -18,6 +18,7 @@
 
  ### My Projects:
 - [Portifólio](https://luc5z.github.io)
+- [Fusion Fighter](https://luc5z.github.io/Fusion_Fighters/root/)
 - [Alvaro Simulator](https://luc5z.github.io/game)
 - [Calculadora científica](https://luc5z.github.io/calculadora/)
 

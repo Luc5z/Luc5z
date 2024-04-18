@@ -15,11 +15,13 @@
 
 
 ### Studying in this moment:
+
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
  ### My Projects:
+ 
 - [Portifólio](https://luc5z.github.io)
 - [Fusion Fighter](https://luc5z.github.io/Fusion_Fighters/root/)
 - [Alvaro Simulator](https://luc5z.github.io/game)

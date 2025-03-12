@@ -26,11 +26,9 @@
 
  
 - [Portifólio](https://luc5z.github.io)
-- [Fusion Fighter](https://luc5z.github.io/Fusion_Fighters/root/)
-- [Alvaro Simulator](https://luc5z.github.io/game)
-- [Calculadora científica](https://luc5z.github.io/calculadora/)
-- [MedLife](https://github.com/Luc5z/MedLife)
-  
+- [Denuncieaqui](https://youtu.be/djc54DXraRo?si=Px8C00WbwqzLhdYW)
+- [Ondeficar](https://luc5z.github.io/ondeficar/)
+- [Simple video streaming](https://luc5z.github.io/simple-video-streaming/)
 
 <picture>
   <source

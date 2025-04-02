@@ -18,6 +18,7 @@
 
 ### Studying in this moment:
 
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=ed0000&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=1fe3e6&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=287d38&labelColor=0D1117&textColor=0D1117)&nbsp;
